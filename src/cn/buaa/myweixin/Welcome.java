@@ -7,6 +7,11 @@ import android.content.Intent;
 import android.view.Menu;
 import android.view.View;
 
+/*A attractive welcome page is very important for the users.
+ * author yu pan
+ * 
+ * */
+
 public class Welcome extends Activity {
 
     @Override
